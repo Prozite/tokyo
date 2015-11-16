@@ -1,0 +1,31 @@
+body{
+  background-color: blue;
+}
+h1{
+text-align: center;
+text-transform: bold;
+font-size: 50px;
+color:white;
+
+}
+figure{
+  text-align: center;
+  height:150;
+   width:150;
+}
+article{
+  text-transform: bold;
+  color:red;
+  font-size: 30px
+}
+h2{
+  text-align: center;
+  text-transform: bold;
+  font-size: 50px;
+  color:white;
+}
+p{
+  font-size: 20px;
+  text-transform: bold;
+  color:red;
+}

@@ -1,0 +1,18 @@
+body{
+  background-color: blue;
+}
+h1{
+text-align: center;
+text-transform: bold;
+font-size: 50px;
+color:white;
+
+}
+figure{
+  text-align: center;
+}
+article{
+  text-transform: bold;
+  color:red;
+  font-size: 30px
+}
